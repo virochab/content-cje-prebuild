@@ -17,7 +17,7 @@ func main() {
 <html>
 <body>
 <h2>Hello111 `+ v +` the Tomcat server is running!</h2>
-<h1>The curent server time is 
+<h1>The curent server time isss 
 <%
          Date date = new Date();
          out.print( "<h2 align = \"center\">" +date.toString()+"</h2>");
